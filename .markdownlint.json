@@ -1,0 +1,12 @@
+{
+    "no-inline-html": {
+      "allowed_elements": [ "details", "summary", "br", "img" ]
+    },
+    "no-trailing-punctuation": false,
+    "header-increment": false,
+    "heading-start-left": false,
+    "no-duplicate-heading": false,
+    "line-length": {
+      "line_length": 200
+    }
+  }

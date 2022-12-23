@@ -1,0 +1,13 @@
+{
+    "grammarly.files.include": [
+        "**/readme.md",
+        "**/README.md",
+        "**/*.txt"
+    ],
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "pattern": "**/*.md"
+          }
+    ]
+}
